@@ -13,7 +13,7 @@ background:url(https://lh3.googleusercontent.com/-CYobas4WGXo/Ts32QusPKsI/AAAAAA
 <body BGCOLOR="black">
 <center><FONT COLOR="white"><FONT SIZE=4></FONT></FONT></center></p>
 <center><img src="https://i.imgur.com/yztMiiU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" width="180" height="180"></center>
-<center></center><h2 class="header glitch" data-text="Hacked By D3VR4J">Hacked By D3VR4J </h2>
+<center><h2 class="header glitch" data-text="Hacked By D3VR4J">Hacked By D3VR4J </h2></center>
 </body>
 <p><center><FONT COLOR="red"><FONT SIZE=2> Hey Admin Your System Not Safe</FONT></p>
 <p><center><FONT COLOR="red"><FONT SIZE=2> Please Repair Your Bugs System </FONT>
